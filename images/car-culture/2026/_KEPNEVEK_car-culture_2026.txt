@@ -1,0 +1,39 @@
+Car Culture 2026 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	Nissan Skyline 2000GT-R LBWK	Japan Historics 5	
+002.webp	2/5	Toyota AE86 Sprinter Trueno	Japan Historics 5	
+003.webp	3/5	'77 Toyota Celica	Japan Historics 5	
+004.webp	4/5	Datsun 620	Japan Historics 5	
+005.webp	5/5	'88 Honda CRX	Japan Historics 5	
+006.webp	1/5	BMW M3	Power Trip	
+007.webp	2/5	'99 Ford F-150 SVT Lightning	Power Trip	
+008.webp	3/5	2008 Mercedes-Benz CLK 63 AMG Black Series	Power Trip	
+009.webp	4/5	'84 Mustang SVO	Power Trip	
+010.webp	5/5	2019 Jeep Grand Cherokee Trackhawk	Power Trip	
+011.webp	0/5	'92 BMW M3	Power Trip • CHASE	
+012.webp	1/5	1994 NISMO 270R (S14)	Modern Classics	
+013.webp	2/5	Ferrari Testarossa	Modern Classics	
+014.webp	3/5	Toyota Soarer	Modern Classics	
+015.webp	4/5	Porsche 993 GT2	Modern Classics	
+016.webp	5/5	Mazda 323 GTR	Modern Classics	
+017.webp	0/5	Mercedes-Benz 190 E 2.5-16 Evo II	Modern Classics • CHASE	
+018.webp	1/5	'55 Chevy Bel Air Gasser	Thrill Climbers	
+019.webp	2/5	Lancia Delta S4	Thrill Climbers	
+020.webp	3/5	Mercedes-Benz 300 SEL 6.8 AMG	Thrill Climbers	
+021.webp	4/5	Mitsubishi Lancer Evolution VI	Thrill Climbers	
+022.webp	5/5	Porsche 914 Safari	Thrill Climbers	
+023.webp	0/5	Subaru Impreza WRX	Thrill Climbers • CHASE	
+024.webp	1/5	'76 Greenwood Corvette	Vintage Racing	
+025.webp	2/5	Ferrari 250 GTO	Vintage Racing	
+026.webp	3/5	Jaguar XJS	Vintage Racing	
+027.webp	4/5	Lancia Stratos	Vintage Racing	
+028.webp	5/5	Nissan Skyline GT-R (BNR32)	Vintage Racing	
+029.webp	6/5	Porsche 917K	Vintage Racing	
+030.webp	1/5	LB-Kaido Works Nissan R32 Skyline GT-R	Aero Styles	
+031.webp	2/5	'08 Audi A4 Touring Car	Aero Styles	
+032.webp	3/5	LB Super Silhouette Nissan Silvia (S15)	Aero Styles	
+033.webp	4/5	Lexus RC F GT3	Aero Styles	
+034.webp	5/5	Custom '70 Chevy Nova	Aero Styles	
+035.webp	0/5	LB-ER34 Super Silhouette Nissan Skyline	Aero Styles • CHASE	

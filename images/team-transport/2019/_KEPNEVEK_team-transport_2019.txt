@@ -1,0 +1,11 @@
+Team Transport 2019 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Fleet Flyer + Mercedes-Benz 190E	Mix 1	
+02.webp	2	Sakura Sprinter + Nissan Fairlady Z	Mix 1	
+03.webp	3	Aero Lift + Nissan Skyline GT-R (BNR34)	Mix 2	
+04.webp	4	Volkswagen Transporter T1 Pickup + Porsche 356A Outlaw	Mix 2	
+05.webp	5	Carry On + Jaguar Lightweight E-Type	Mix 3	
+06.webp	6	Ford C-800 + Custom '64 Galaxie 500	Mix 3	
+07.webp	7	Fleet Flyer + BMW M3	Supreme Exclusive	

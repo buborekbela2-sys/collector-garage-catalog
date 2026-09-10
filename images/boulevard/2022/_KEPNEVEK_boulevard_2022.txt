@@ -1,0 +1,29 @@
+Boulevard 2022 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+41.webp	41	Acura NSX GT3	Mix A	HCR23
+42.webp	42	Volkswagen Drag Bus	Mix A	HCR15
+43.webp	43	Baja Bouncer	Mix A	HCR08
+44.webp	44	Volkswagen Deluxe Station Wagon	Mix A	HCR01
+45.webp	45	Nissan Laurel 2000 SGX	Mix A	HCR09
+46.webp	46	'75 BRE Datsun Sunny Truck (B120)	Mix B	HCR11
+47.webp	47	Land Rover Defender 90	Mix B	HCR10
+48.webp	48	'67 Austin Mini Pickup	Mix B	HCR03
+49.webp	49	Lykan HyperSport	Mix B	HCR19
+50.webp	50	Volvo P220 Amazon Estate	Mix B	HCR13
+51.webp	51	'12 Corvette Z06 Drag Racer	Mix C	HCR12
+52.webp	52	'20 Toyota GR Supra	Mix C	HCR16
+53.webp	53	'73 Holden Monaro GTS	Mix C	HCR02
+54.webp	54	Mercedes-Benz 300 SEL 6.8 AMG	Mix C	HCR14
+55.webp	55	Alfa Romeo 155 V6 Ti	Mix C	HCP34
+56.webp	56	'71 Mustang Mach 1	Mix D	HCR21
+57.webp	57	'78 Ford Escort RS 1800 MK2	Mix D	HCR17
+58.webp	58	Toyota 4Runner	Mix D	HCR18
+59.webp	59	De Tomaso Pantera Gruppo 4	Mix D	HCR04
+60.webp	60	Mercedes-Benz AMG E 36 Estate Special Edition	Mix D	HCR05
+61.webp	61	'18 Ford Mustang RTR Spec 5	Mix E	HCR20
+62.webp	62	'70 Rover P6 Group 2	Mix E	HCR00
+63.webp	63	'16 Subaru WRX STI	Mix E	HCR07
+64.webp	64	Aero Sculpt	Mix E	HCR06
+65.webp	65	Custom '70 Chevy Nova	Mix E	HCR22

@@ -1,0 +1,36 @@
+Car Culture 2023 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	65 Dodge Coronet	Dragstrip Demons	
+002.webp	2/5	Volkswagen "Classic Bug"	Dragstrip Demons	
+003.webp	3/5	64 Chevy Nova Gasser	Dragstrip Demons	
+004.webp	4/5	73 Plymouth Duster	Dragstrip Demons	
+005.webp	5/5	33 Willys	Dragstrip Demons	
+006.webp	0/5	33 Willys	Dragstrip Demons • CHASE	
+007.webp	1/5	Porsche 911 GT3	Speed Machines	
+008.webp	2/5	McLaren 720S	Speed Machines	
+009.webp	3/5	Pagani Zonda R	Speed Machines	
+010.webp	4/5	Ford GT	Speed Machines	
+011.webp	5/5	Lamborghini Veneno	Speed Machines	
+012.webp	0/5	Porsche 911 GT3	Speed Machines • CHASE	
+013.webp	1/5	Alfa Romeo 155 V6 TI	Spettacolare	
+014.webp	2/5	Lamborghini Countach LP 5000 QV	Spettacolare	
+015.webp	3/5	Lamborghini Countach LPI 800-4	Spettacolare	
+016.webp	4/5	Lancia Stratos	Spettacolare	
+017.webp	5/5	Alfa Romeo Giulia Sprint GTA	Spettacolare	
+018.webp	1/5	BMW M5 E39	Canyon Warriors	
+019.webp	2/5	1974 Volvo 142GL	Canyon Warriors	
+020.webp	3/5	Ford Sierra RS Cosworth	Canyon Warriors	
+021.webp	4/5	Mercedes Benz 500E	Canyon Warriors	
+022.webp	5/5	1990 Porsche 944	Canyon Warriors	
+023.webp	1/5	1977 Ford Capri	Race Day	
+024.webp	2/5	Porsche 935	Race Day	
+025.webp	3/5	Aston Martin Vantage GTE	Race Day	
+026.webp	4/5	Audi R8 LMS	Race Day	
+027.webp	5/5	1994 Mercedes Benz C-Class Racer	Race Day	
+028.webp	1/5	'98 Toyota Altezza	Modern Classics	
+029.webp	2/5	Honda Civic EG	Modern Classics	
+030.webp	3/5	Volkswagen Corrado VR6	Modern Classics	
+031.webp	4/5	'91 Mazda Miata	Modern Classics	
+032.webp	5/5	Fiat 131 Abarth	Modern Classics	

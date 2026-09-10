@@ -1,0 +1,16 @@
+Team Transport 2025 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	2023 Land Rover Defender 110 + HW Rally Trailer + Jaguar Mk1	Mix 1	
+02.webp	2	Sakura Sprinter + 1972 Toyota Corolla Levin	Mix 1	
+03.webp	3	Flipsider Hauler + Lamborghini Reventón Roadster	Mix 1	
+04.webp	4	Fleet Flyer + Audi S4 quattro	Mix 2	
+05.webp	5	HW Rally Hauler + HW Rally Trailer + DMC DeLorean	Mix 2	
+06.webp	6	Kousoku Hauler + Toyota Soarer	Mix 2	
+07.webp	7	Aero Lift + '73 Honda Civic Custom	Mix 3	
+08.webp	8	Horizon Hauler + Toyota FJ Cruiser	Mix 3	
+09.webp	9	Second Story Lorry + '73 Plymouth Duster	Mix 3	
+10.webp	10	Fiat 642 RN2 Bartoletti Transporter + Ferrari 250 GTO	Mix 4	
+11.webp	11	Fleet Street + Toyota AE86 Sprinter Trueno	Mix 4	
+12.webp	12	Euro Hauler + Lykan HyperSport	Mix 4	

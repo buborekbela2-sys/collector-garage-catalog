@@ -1,0 +1,13 @@
+Team Transport 2018 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Volkswagen Transporter T1 Pickup + Porsche 356 Speedster	Mix 1	
+02.webp	2	Sakura Sprinter + Nissan Laurel 2000 SGX	Mix 1	
+03.webp	3	Carry On + '69 Nissan Skyline Van	Mix 1	
+04.webp	4	Retro Rig + '72 Plymouth Cuda Funny Car	Mix 2	
+05.webp	5	Retro Rig + Plymouth Duster Funny Car	Mix 2	
+06.webp	6	Fleet Flyer + Porsche 962	Mix 2	
+07.webp	7	Retro Rig + '66 Super Nova	Mix 3	
+08.webp	8	Sakura Sprinter + Nissan Skyline HT 2000GT-X	Mix 3	
+09.webp	9	Fleet Flyer + '71 Datsun 510	Mix 3	

@@ -1,0 +1,16 @@
+Team Transport 2024 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Second Story Lorry + Fiat 131 Abarth	Mix 1	
+02.webp	2	Sakura Sprinter + '70 Plymouth AAR Cuda	Mix 1	
+03.webp	3	'72 Chevy Ramp Truck + '66 Chevelle	Mix 1	
+04.webp	4	Fleet Street + '96 Honda Accord	Mix 2	
+05.webp	5	Carry On + '66 Porsche 906 Carrera 6	Mix 2	
+06.webp	6	Fleet Flyer + Sauber-Mercedes C9	Mix 2	
+07.webp	7	'88 Chevy Silverado 3500 + HW Rally Trailer	Mix 3	
+08.webp	8	Fleet Flyer + Nissan Skyline 2000GT-R LBWK	Mix 3	
+09.webp	9	'55 Mercedes-Benz Blaues Wunder + Mercedes-Benz 300 SL	Mix 3	
+10.webp	10	Fleet Street + Toyota Off-Road Truck	Mix 4	
+11.webp	11	'18 Toyota 4Runner + Open Trailer + '89 Toyota Supra	Mix 4	
+12.webp	12	Euro Hauler + '94 Nissan 300ZX GTS	Mix 4	

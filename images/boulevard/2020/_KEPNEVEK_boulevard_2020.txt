@@ -1,0 +1,24 @@
+Boulevard 2020 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+1.webp	1	Bone Shaker	Mix A	GJT71
+2.webp	2	Nissan Skyline GT-R (BCNR33)	Mix A	GJT73
+3.webp	3	Volkswagen T1 Panel Bus	Mix A	GJT70
+4.webp	4	'67 Camaro	Mix A	GJT69
+5.webp	5	'83 Chevy Silverado 4x4	Mix A	GJT72
+6.webp	6	Porsche 356 Outlaw	Mix B	GJT74
+7.webp	7	Nissan Silvia (S15)	Mix B	GJT75
+8.webp	8	Custom '62 Chevy Pickup	Mix B	GJT77
+9.webp	9	'18 COPO Camaro SS	Mix B	GJT76
+10.webp	10	Koenigsegg Agera R	Mix B	GJT85
+11.webp	11	'55 Chevy Bel Air Gasser	Mix C	GJT82
+12.webp	12	'66 Pontiac GTO	Mix C	GJT81
+13.webp	13	Ford GT	Mix C	GJT83
+14.webp	14	Volkswagen "Baja Bug"	Mix C	GJT80
+15.webp	15	1991 Mercedes-Benz G-Class	Mix C	GJT79
+16.webp	16	Twin Mill	Mix D	GJT88
+17.webp	17	Kool Kombi	Mix D	GJT86
+18.webp	18	Toyota AE86 Sprinter Trueno	Mix D	GJR77
+19.webp	19	'69 Alfa Romeo 33 Stradale	Mix D	GJT78
+20.webp	20	Nissan Skyline C210	Mix D	GJT84

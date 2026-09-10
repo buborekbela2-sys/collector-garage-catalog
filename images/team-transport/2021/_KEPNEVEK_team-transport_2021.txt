@@ -1,0 +1,17 @@
+Team Transport 2021 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Euro Hauler + Lancia Rally 037	Mix 1	
+02.webp	2	Sakura Sprinter + Nissan Skyline GT-R (BNR32)	Mix 1	
+03.webp	3	Ford C-800 + '65 Mercury Comet Cyclone	Mix 1	
+04.webp	4	Aero Lift + BMW M3 E46	Mix 2	
+05.webp	5	Retro Rig + '18 Dodge Challenger SRT Demon	Mix 2	
+06.webp	6	Horizon Hauler + Volkswagen "Baja Bug"	Mix 2	
+07.webp	7	Speed Waze + '32 Ford	Mix 2	
+08.webp	8	Rally Van / Rally Trailer + Ford RS200	Mix 3	
+09.webp	9	Horizon Hauler + '74 Chevrolet Vega Pro Stock	Mix 3	
+10.webp	10	Aero Lift + Volkswagen ID.R	Mix 4	
+11.webp	11	Carry On + Corvette C8.R	Mix 4	
+12.webp	12	Aero Lift + '21 Toyota GR Supra	Mix 4	
+13.webp	13	Carry On + Custom Corvette Stingray Coupe	Walmart Legends Tour Exclusive	

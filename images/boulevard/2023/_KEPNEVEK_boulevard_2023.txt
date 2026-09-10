@@ -1,0 +1,29 @@
+Boulevard 2023 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+66.webp	66	'20 Ford Shelby GT500	Mix A	HKF14
+67.webp	67	Volkswagen Caddy	Mix A	HKF13
+68.webp	68	Dodge Van	Mix A	HKF15
+69.webp	69	'98 Subaru Impreza 22B STi-Version	Mix A	HKF16
+70.webp	70	LB-ER34 Super Silhouette Nissan Skyline	Mix A	HKF21
+71.webp	71	'93 Ford Escort RS Cosworth	Mix B	HKF17
+72.webp	72	Volkswagen T1 Panel Bus	Mix B	HKF18
+73.webp	73	'99 Honda Civic Type R (EK9)	Mix B	HKF19
+74.webp	74	'96 Chevy Impala SS	Mix B	HKF20
+75.webp	75	'04 Mazda Mazdaspeed Miata	Mix B	HKF22
+76.webp	76	'12 Mercedes-Benz C 63 AMG Coupe Black Series	Mix C	HKF23
+77.webp	77	'77 Holden Torana A9X	Mix C	HKF12
+78.webp	78	Toyota AE86 Sprinter Trueno	Mix C	HKF28
+79.webp	79	Mitsubishi Lancer Evolution VI	Mix C	HKF26
+80.webp	80	'91 GMC Syclone	Mix C	HKF24
+81.webp	81	Audi S4 quattro	Mix D	HKF30
+82.webp	82	Porsche 911 Turbo (930)	Mix D	HKF34
+83.webp	83	'70 Dodge Hemi Challenger	Mix D	HKF25
+84.webp	84	Mercedes-Benz 190 E 2.5-16	Mix D	HWW12
+85.webp	85	Nissan Silvia (S15 NISMO R-Tune Proto)	Mix D	HKF31
+86.webp	86	'67 Ford Anglia Racer	Mix E	HKF32
+87.webp	87	Porsche 935	Mix E	HKF36
+88.webp	88	'96 Honda Accord	Mix E	HKF27
+89.webp	89	'95 Toyota Celica GT-Four	Mix E	HKF33
+90.webp	90	'23 Nissan Z	Mix E	HYF05

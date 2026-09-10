@@ -1,0 +1,34 @@
+Car Culture 2019 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	60s Fiat 500D Modificado	Gulf	
+002.webp	2/5	69 Ford Mustang Boss 302	Gulf	
+003.webp	3/5	Nissan Laurel 2000 SGX	Gulf	
+004.webp	4/5	Volkswagen Golf Mk7	Gulf	
+005.webp	5/5	McLaren F1 GTR	Gulf	
+006.webp	1/5	Nissan Skyline GT-R	Open Track	
+007.webp	2/5	Mercedes-Benz 190E 2.5-16	Open Track	
+008.webp	3/5	16 Mercedes-AMG GT3	Open Track	
+009.webp	4/5	Acura NSX GT3	Open Track	
+010.webp	5/5	Audi R8 LMS	Open Track	
+011.webp	1/5	76 Chevy Monza	Silhouettes	
+012.webp	2/5	76 Greenwood Corvette	Silhouettes	
+013.webp	3/5	78 Porsche 935-78	Silhouettes	
+014.webp	4/5	RWB Porsche 930	Silhouettes	
+015.webp	5/5	Nissan Skyline Silhouette	Silhouettes	
+016.webp	1/5	Nissan Silvia (S15)	Street Tuners	
+017.webp	2/5	95 Mazda RX-7	Street Tuners	
+018.webp	3/5	96 Nissan 180SX Type X	Street Tuners	
+019.webp	4/5	Honda S2000	Street Tuners	
+020.webp	5/5	Pandem Subaru BRZ	Street Tuners	
+021.webp	1/5	70 Oldsmobile 442	Desert Rally	
+022.webp	2/5	80 Dodge Macho Power Wagon	Desert Rally	
+023.webp	3/5	88 Jeep Grand Wagoneer	Desert Rally	
+024.webp	4/5	17 Ford F-150 Raptor	Desert Rally	
+025.webp	5/5	Volkswagen "Baja Bug"	Desert Rally	
+026.webp	1/5	Toyota Supra	Cruise Boulevard	
+027.webp	2/5	69 Chevelle SS 396	Cruise Boulevard	
+028.webp	3/5	2014 Custom Mustang	Cruise Boulevard	
+029.webp	4/5	Custom '93 Nissan Hardbody (D21)	Cruise Boulevard	
+030.webp	5/5	Volkswagen "Classic Bug"	Cruise Boulevard	

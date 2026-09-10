@@ -1,0 +1,24 @@
+Fast & Furious 2026 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	1995 Mitsubishi Eclipse • CHASE	Mix 1	JHW68
+002.webp	2/5	Mercedes-Benz 500 SEL	Mix 1	JHW67
+003.webp	3/5	1969 Ford Mustang Boss 302	Mix 1	JHW72
+004.webp	4/5	W Motors Lykan HyperSport	Mix 1	JHW70
+005.webp	5/5	Toyota FJ Cruiser	Mix 1	JHW69
+006.webp	1/5	1995 Mazda RX-7 • CHASE	Mix 2	JHW71
+007.webp	2/5	1967 Chevy Custom C-10	Mix 2	JHW61
+008.webp	3/5	1994 Honda del Sol	Mix 2	JHW63
+009.webp	4/5	1970 Chevrolet Chevelle SS	Mix 2	JHW73
+010.webp	5/5	Lamborghini Aventador Coupé	Mix 2	JHW77
+011.webp	1/5	1970 Dodge Charger R/T • CHASE	Mix 3	JHW74
+012.webp	2/5	1970 Dodge Challenger R/T	Mix 3	JHW64
+013.webp	3/5	2003 Honda NSX Type-R	Mix 3	JHW75
+014.webp	4/5	2010 BMW M5	Mix 3	JHW62
+015.webp	5/5	Toyota Land Cruiser FJ60	Mix 3	JHW76
+016.webp	1/5	Toyota Supra • CHASE	Mix 4	JHW78
+017.webp	2/5	Mercedes-Benz SLS AMG Coupé Black Series	Mix 4	JHW65
+018.webp	3/5	Lexus LFA	Mix 4	JHW66
+019.webp	4/5	Nissan 350Z Custom	Mix 4	JHW79
+020.webp	5/5	McLaren 720S	Mix 4	JHW80

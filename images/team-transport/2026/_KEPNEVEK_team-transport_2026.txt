@@ -1,0 +1,16 @@
+Team Transport 2026 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Fleet Street + '20 Toyota GR Supra	Mix 1	
+02.webp	2	Horizon Hauler + '61 Impala	Mix 1	
+03.webp	3	Fleet Flyer + Ford Capri GR5	Mix 1	
+04.webp	4	Mercedes-Benz Renntransporter + Mercedes-Benz 300 SLR	Mix 2	
+05.webp	5	Aero Lift + 2024 Ford Mustang RTR Spec 5-FD	Mix 2	
+06.webp	6	'72 Chevy Ramp Truck + '66 Chevrolet Corvair Yenko Stinger	Mix 2	
+07.webp	7	Terra-Torque + '67 Off-Road Camaro	Mix 3	
+08.webp	8	Kousoku Hauler + '07 Honda Civic Type R	Mix 3	
+09.webp	9	Retro Rig + Volkswagen Corrado VR6	Mix 3	
+10.webp	10	2003 Porsche Cayenne + HW Rally Trailer + '89 Porsche 944 Turbo	Expanded Release	
+11.webp	11	'17 Ford F-150 Raptor + HW Rally Trailer + Rob'n Pinks	Expanded Release	
+12.webp	12	Porsche 911 GT3 R (992) + Fleet Flyer	Expanded Release	

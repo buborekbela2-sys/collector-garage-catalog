@@ -1,0 +1,14 @@
+Team Transport 2020 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Sakura Sprinter + Mazda 787B	Mix 1	
+02.webp	2	Aero Lift + RWB Porsche 930	Mix 1	
+03.webp	3	Wide Open + '70 Plymouth Superbird	Mix 1	
+04.webp	4	Retro Rig + '69 Ford Mustang Boss 302	Mix 2	
+05.webp	5	Ford C-800 + 2016 Ford GT Race	Mix 2	
+06.webp	6	Euro Hauler + Mercedes-Benz 300 SL	Mix 2	
+07.webp	7	Volkswagen Transporter T1 Pickup + Volkswagen "Classic Bug"	Mix 2	
+08.webp	8	Wide Open + Volkswagen "Baja Bug"	Mix 3	
+09.webp	9	Fleet Flyer + Custom Corvette Stingray Coupe	Mix 3	
+10.webp	10	Horizon Hauler + '68 Dodge Dart	Mix 3	

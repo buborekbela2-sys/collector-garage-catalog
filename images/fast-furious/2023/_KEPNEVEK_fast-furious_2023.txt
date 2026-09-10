@@ -1,0 +1,14 @@
+Fast & Furious 2023 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	Mazda RX-7 FD	Mix 1	HKD22
+002.webp	2/5	1967 Chevy Camaro Offroad	Mix 1	HNW47
+003.webp	3/5	Jeep Grand Cherokee Trackhawk	Mix 1	HNW48
+004.webp	4/5	Porsche 718 Cayman GT4	Mix 1	HKD20
+005.webp	5/5	Nissan Skyline GT-R (BNR34)	Mix 1	HKD21
+006.webp	1/5	1969 Chevy Camaro	Mix 2	HKD24
+007.webp	2/5	Toyota Land Cruiser FJ60	Mix 2	HNW53
+008.webp	3/5	W Motors Lykan HyperSport	Mix 2	HNW49
+009.webp	4/5	1971 Plymouth GTX	Mix 2	HNW55
+010.webp	5/5	Dodge Charger SRT Hellcat Widebody	Mix 2	HNW50

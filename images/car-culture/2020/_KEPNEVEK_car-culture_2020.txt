@@ -1,0 +1,34 @@
+Car Culture 2020 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	71 Porsche 911	Door Slammers	
+002.webp	2/5	Alfa Romeo Giulia Sprint GTA	Door Slammers	
+003.webp	3/5	71 Datsun 510	Door Slammers	
+004.webp	4/5	BMW 2002	Door Slammers	
+005.webp	5/5	70 Ford Escort RS1600	Door Slammers	
+006.webp	1/5	Nissan Skyline RS (KDR30)	Japan Historics 3	
+007.webp	2/5	85 Honda City Turbo II	Japan Historics 3	
+008.webp	3/5	Nissan Silvia (CSP311)	Japan Historics 3	
+009.webp	4/5	75 Datsun Sunny Truck (B120)	Japan Historics 3	
+010.webp	5/5	68 Mazda Cosmo Sport	Japan Historics 3	
+011.webp	1/5	88 Mercedes Unimog U1300	Wild Terrain	
+012.webp	2/5	85 Ford Bronco	Wild Terrain	
+013.webp	3/5	67 Off Road Camaro	Wild Terrain	
+014.webp	4/5	Land Rover Defender 110 Hard Top	Wild Terrain	
+015.webp	5/5	Porsche 959 (1986)	Wild Terrain	
+016.webp	1/5	Audi Sport Quattro	Thrill Climbers	
+017.webp	2/5	Porsche 934.5	Thrill Climbers	
+018.webp	3/5	Ford RS 200	Thrill Climbers	
+019.webp	4/5	Lancia 037	Thrill Climbers	
+020.webp	5/5	Volkswagen ID R	Thrill Climbers	
+021.webp	1/5	Honda Civic EG	Modern Classics 2	
+022.webp	2/5	98 Subaru Impreza 22B STI-Version	Modern Classics 2	
+023.webp	3/5	Nissan Silvia (S14)	Modern Classics 2	
+024.webp	4/5	Volkswagen Jetta MK3	Modern Classics 2	
+025.webp	5/5	72 Mercedes-Benz 280 SEL 4.5	Modern Classics 2	
+026.webp	1/5	Plymouth Barracuda Hemi	Power Trip	
+027.webp	2/5	87 Buick Regal GNX	Power Trip	
+028.webp	3/5	Custom '72 Chevy LUV	Power Trip	
+029.webp	4/5	18 Dodge Challenger SRT Demon	Power Trip	
+030.webp	5/5	1991 GMC Syclone	Power Trip	

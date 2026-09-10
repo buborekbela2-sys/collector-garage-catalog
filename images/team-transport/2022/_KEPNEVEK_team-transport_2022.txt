@@ -1,0 +1,17 @@
+Team Transport 2022 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Ford C-800 + '65 Ford Galaxie	Mix 1	
+02.webp	2	Fleet Flyer + Mercedes-Benz 300 SEL 6.8 AMG	Mix 1	
+03.webp	3	Aero Lift + Nissan Silvia (S15)	Mix 1	
+04.webp	4	Fleet Flyer + Porsche 917 LH	Mix 2	
+05.webp	5	Sakura Sprinter + Lancia Stratos Group 5	Mix 2	
+06.webp	6	Wide Open + AMC Rebel Machine	Mix 2	
+07.webp	7	Fleet Street + LB-ER34 Super Silhouette Nissan Skyline	Mix 3	
+08.webp	8	Sakura Sprinter + Porsche 962	Mix 3	
+09.webp	9	Retro Rig + '72 Plymouth Cuda Funny Car	Mix 3	
+10.webp	10	Horizon Hauler + Custom '70 Chevy Nova	Walmart Legends Tour Exclusive	
+11.webp	11	HW Rally Trailer + MG Metro 6R4	Mix 4	
+12.webp	12	Fleet Street + Mercedes-AMG GT3	Mix 4	
+13.webp	13	Speed Waze + HW Classic Hydroplane	Mix 4	

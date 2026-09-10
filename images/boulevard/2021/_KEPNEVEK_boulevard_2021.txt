@@ -1,0 +1,24 @@
+Boulevard 2021 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+21.webp	21	'63 Chevy Nova	Mix A	GRL99
+22.webp	22	1968 Mazda Cosmo Sport	Mix A	GRM00
+23.webp	23	'64 Buick Riviera	Mix A	GRL95
+24.webp	24	2019 Subaru WRX STI	Mix A	GRL97
+25.webp	25	Volkswagen Drag Bus	Mix A	GRL93
+26.webp	26	Corvette Z06 Drag Racer	Mix B	GRL96
+27.webp	27	Custom '67 Pontiac Firebird	Mix B	GRL98
+28.webp	28	Porsche 964	Mix B	GRM10
+29.webp	29	Lancia Stratos Group 5	Mix B	GRM01
+30.webp	30	'87 Buick Regal GNX	Mix B	GRL94
+31.webp	31	Volkswagen "Classic Bug"	Mix C	GRM03
+32.webp	32	'66 Pontiac GTO	Mix C	GRM02
+33.webp	33	'70 Plymouth Superbird	Mix C	GRM06
+34.webp	34	DMC DeLorean	Mix C	HCM79
+35.webp	35	Custom '70 Chevy Nova	Mix C	GRM04
+36.webp	36	'18 Toyota 4Runner	Mix D	GRM08
+37.webp	37	1997 Mercedes-Benz CLK-GTR	Mix D	GTT27
+38.webp	38	Custom '93 Nissan Hardbody (D21)	Mix D	GRM09
+39.webp	39	Volkswagen Kafer Racer	Mix D	GRM11
+40.webp	40	Honda Civic EG Custom Version	Mix D	GRM05

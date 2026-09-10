@@ -1,0 +1,29 @@
+Boulevard 2024 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+91.webp	91	LB Super Silhouette Nissan Silvia (S15)	Mix A	HRT64
+92.webp	92	MBK Van	Mix A	HRT67
+93.webp	93	Porsche 718 Cayman GT4	Mix A	HRT71
+94.webp	94	Nissan Skyline RS (KDR30)	Mix A	HRT66
+95.webp	95	'66 Chevrolet Corvair Yenko Stinger	Mix A	HRT69
+96.webp	96	2021 Toyota GR Supra	Mix B	HRT56
+97.webp	97	'60s Fiat 500 D Modificado	Mix B	HRT65
+98.webp	98	Mitsubishi 3000GT VR-4	Mix B	HRT68
+99.webp	99	Nissan Skyline GT-R (BNR32)	Mix B	HRT74
+100.webp	100	Lamborghini Countach LPI 800-4	Mix B	HRT70
+101.webp	101	1955 Plymouth Savoy	Mix C	HRT58
+102.webp	102	'99 Ford F-150 SVT Lightning	Mix C	HRT60
+103.webp	103	Porsche 964	Mix C	HRT73
+104.webp	104	'86 Ford Thunderbird Pro Stock	Mix C	HRT72
+105.webp	105	'24 Honda Civic Type-R	Mix C	HRT61
+106.webp	106	Mazda 323 GTR	Mix D	HRT59
+107.webp	107	Custom '01 Acura Integra GSR	Mix D	HRT77
+108.webp	108	Meyers Manx	Mix D	HRT57
+109.webp	109	Ford Transit SuperVan	Mix D	HRT76
+110.webp	110	De Tomaso Pantera Gruppo 4	Mix D	HRT75
+111.webp	111	'73 Volvo 142 GL	Mix E	HRT79
+112.webp	112	'32 Ford	Mix E	JFM94
+113.webp	113	Mercedes-Benz E 36 AMG	Mix E	HRT78
+114.webp	114	1967 Volkswagen Samba Bus	Mix E	HRT62
+115.webp	115	BMW M3	Mix E	HRT80

@@ -1,0 +1,24 @@
+Fast & Furious 2020 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	Mazda RX-7 FD	Fast Tuners	GJR65
+002.webp	2/5	Nissan Silvia (S15)	Fast Tuners	GJR63
+003.webp	3/5	Nissan 240SX (S14)	Fast Tuners	GJR64
+004.webp	4/5	Honda Civic EG	Fast Tuners	GJR67
+005.webp	5/5	2016 Subaru WRX STI	Fast Tuners	GJR66
+006.webp	1/5	Ford F-150 SVT Lightning	Motor City Muscle	GJR68
+007.webp	2/5	'72 Ford Gran Torino Sport	Motor City Muscle	GJR70
+008.webp	3/5	'87 Buick Grand National GNX	Motor City Muscle	GJR71
+009.webp	4/5	'66 Chevy Nova	Motor City Muscle	GJR72
+010.webp	5/5	'61 Impala	Motor City Muscle	GJR69
+011.webp	1/5	'95 Mazda RX-7	Full Force	GJR76
+012.webp	2/5	'17 Acura NSX	Full Force	GJR75
+013.webp	3/5	'71 Plymouth GTX	Full Force	GJR42
+014.webp	4/5	Jaguar XE SV Project 8	Full Force	GJR74
+015.webp	5/5	'70 Dodge Charger R/T	Full Force	GJR73
+016.webp	1/5	Honda S2000	Quick Shifters	GJR81
+017.webp	2/5	Nissan Skyline GT-R (BCNR33)	Quick Shifters	GJR79
+018.webp	3/5	2003 Honda NSX Type-R	Quick Shifters	GJR80
+019.webp	4/5	'70 Plymouth AAR Cuda	Quick Shifters	GJR82
+020.webp	5/5	'65 Corvette Stingray Coupe	Quick Shifters	GJR78

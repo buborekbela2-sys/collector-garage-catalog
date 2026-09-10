@@ -1,0 +1,24 @@
+Car Culture 2016 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	71 Datsun 510 Wagon	Japan Historics	
+002.webp	2/5	Nissan Skyline 2000GT-R	Japan Historics	
+003.webp	3/5	Nissan Skyline HT 2000GT-X	Japan Historics	
+004.webp	4/5	Toyota 2000 GT	Japan Historics	
+005.webp	5/5	Mazda RX-3	Japan Historics	
+006.webp	1/5	Porsche 993 GT2	Euro Style	
+007.webp	2/5	Porsche 911 GT3 RS	Euro Style	
+008.webp	3/5	92 BMW M3	Euro Style	
+009.webp	4/5	Volkswagen Golf Mk7	Euro Style	
+010.webp	5/5	Fiat 500	Euro Style	
+011.webp	1/5	Ford F-250	Trucks	
+012.webp	2/5	72 Ford Ranchero	Trucks	
+013.webp	3/5	Subaru BRAT	Trucks	
+014.webp	4/5	Chevy Silverado	Trucks	
+015.webp	5/5	Datsun 620	Trucks	
+016.webp	1/5	Porsche 964	Track Day	
+017.webp	2/5	78 Porsche 935	Track Day	
+018.webp	3/5	70 Chevy Chevelle	Track Day	
+019.webp	4/5	Volkswagen Karmann Ghia	Track Day	
+020.webp	5/5	Datsun Bluebird 510	Track Day	

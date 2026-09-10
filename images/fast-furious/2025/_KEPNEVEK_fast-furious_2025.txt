@@ -1,0 +1,24 @@
+Fast & Furious 2025 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	1970 Chevelle SS	Mix 1	JBL94
+002.webp	2/5	2003 Dodge Viper SRT 10	Mix 1	JBL85
+003.webp	3/5	Nissan 370Z	Mix 1	JBL91
+004.webp	4/5	Land Rover Defender 110	Mix 1	JBL98
+005.webp	5/5	McLaren Senna	Mix 1	JBL92
+006.webp	1/5	Mazda RX-7 FD	Mix 2	JBL93
+007.webp	2/5	Nissan Skyline GT-R (BNR32)	Mix 2	JBL97
+008.webp	3/5	2020 Dodge Charger Hellcat	Mix 2	JBL96
+009.webp	4/5	Alfa Romeo Giulia Sprint GTA	Mix 2	JBM04
+010.webp	5/5	1966 Chevy Impala	Mix 2	JBL95
+011.webp	1/5	Nissan 240SX (S14)	Mix 3	JBL99
+012.webp	2/5	Lamborghini LM002	Mix 3	JBL86
+013.webp	3/5	Koenigsegg CCXR	Mix 3	JBL88
+014.webp	4/5	1970 Custom Plymouth Roadrunner	Mix 3	JBL87
+015.webp	5/5	2021 Toyota GR Supra	Mix 3	JBM00
+016.webp	1/5	1993 Honda Civic Coupe EX EJ1	Mix 4	JBL90
+017.webp	2/5	Lancer Evolution IX	Mix 4	JBM02
+018.webp	3/5	Porsche 911 Carrera RS 3.8	Mix 4	JBM03
+019.webp	4/5	Toyota Chaser JZX 100	Mix 4	JBL89
+020.webp	5/5	Lamborghini Gallardo LP 570-4 Superleggera	Mix 4	JBM01

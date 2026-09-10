@@ -1,0 +1,24 @@
+Fast & Furious 2024 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+001.webp	1/5	Toyota AE86 Sprinter Trueno	Mix 1	HVR61
+002.webp	2/5	Ford RS200	Mix 1	HVR60
+003.webp	3/5	1970 Plymouth AAR Cuda	Mix 1	HYP68
+004.webp	4/5	Nissan Skyline GT-R (BNR32)	Mix 1	HYP69
+005.webp	5/5	BMW M3	Mix 1	
+006.webp	1/5	Nissan Silvia (S15)	Mix 2	HYP73
+007.webp	2/5	Toyota Soarer	Mix 2	HRT95
+008.webp	3/5	1972 Ford Gran Torino Sport	Mix 2	HYP72
+009.webp	4/5	1969 Ford Mustang Boss 302	Mix 2	HYP71
+010.webp	5/5	BMW M3	Mix 2	HYP70
+011.webp	1/5	Custom Acura Integra Sedan GSR	Mix 3	JDJ13
+012.webp	2/5	Mercedes-Benz 500 SEL	Mix 3	HRT94
+013.webp	3/5	Porsche 911 Carrera RS 3.8	Mix 3	HRT97
+014.webp	4/5	Toyota Land Cruiser FJ43	Mix 3	HRT96
+015.webp	5/5	Land Rover Defender 90	Mix 3	HYP74
+016.webp	1/5	Ford F-150 SVT Lightning	Mix 4	HYP75
+017.webp	2/5	1996 Nissan 180SX Type X	Mix 4	HVR62
+018.webp	3/5	1987 Chevy Caprice	Mix 4	HRT98
+019.webp	4/5	2018 Bentley Continental GT3	Mix 4	HVR63
+020.webp	5/5	Toyota FJ Cruiser	Mix 4	HRT99

@@ -1,0 +1,17 @@
+Team Transport 2023 – képfájlok
+
+A képfájl nevét pontosan így használd:
+
+01.webp	1	Aero Lift + '23 Ford Mustang RTR Spec 5	Mix 1	
+02.webp	2	Retro Rig + '80 Dodge Macho Power Wagon	Mix 1	
+03.webp	3	Sakura Sprinter + Nissan Silvia (S13)	Mix 1	
+04.webp	4	Fleet Flyer + Alfa Romeo 155 V6 TI	Mix 2	
+05.webp	5	'72 Chevy Ramp Truck + '61 Impala	Mix 2	
+06.webp	6	HW Rally Hauler + '70 Rover P6 Group 2	Mix 2	
+07.webp	7	Flipsider Hauler + LB-Silhouette WORKS GT Nissan 35GT-RR	Mix 3	
+08.webp	8	Sakura Sprinter + Mad Mike Mazda RX3 GT	Mix 3	
+09.webp	9	Second Story Lorry + De Tomaso Pantera Gruppo 4	Mix 3	
+10.webp	10	Fleet Street + 1997 Mercedes-Benz CLK-GTR	Mix 4	
+11.webp	11	Speed Waze + '33 Willys	Mix 4	
+12.webp	12	Euro Hauler + Porsche 959 (1986)	Mix 4	
+13.webp	13	Carry On + LB-ER34 Super Silhouette Nissan Skyline	Fast & Furious	
