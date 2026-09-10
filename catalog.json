@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "brand": "Hot Wheels",
+  "series": "Boulevard",
+  "seriesId": "boulevard",
+  "year": 2025,
+  "imageFilePattern": "{number}.webp",
+  "cars": [
+    {
+      "number": "116",
+      "model": "Porsche 935",
+      "toyNumber": "JBL17",
+      "mix": "A",
+      "imageFile": "116.webp"
+    },
+    {
+      "number": "117",
+      "model": "Lancia Delta Integrale",
+      "toyNumber": "JBL18",
+      "mix": "A",
+      "imageFile": "117.webp"
+    },
+    {
+      "number": "118",
+      "model": "'91 BMW M5",
+      "toyNumber": "JBL24",
+      "mix": "A",
+      "imageFile": "118.webp"
+    },
+    {
+      "number": "119",
+      "model": "Toyota Land Cruiser FJ43",
+      "toyNumber": "JBL25",
+      "mix": "A",
+      "imageFile": "119.webp"
+    },
+    {
+      "number": "120",
+      "model": "Alfa Romeo GTV6 3.0",
+      "toyNumber": "JBL16",
+      "mix": "A",
+      "imageFile": "120.webp"
+    },
+    {
+      "number": "121",
+      "model": "Porsche 911 Carrera RS 2.7",
+      "toyNumber": "JBL19",
+      "mix": "B",
+      "imageFile": "121.webp"
+    },
+    {
+      "number": "122",
+      "model": "'16 Bugatti Chiron",
+      "toyNumber": "JBL30",
+      "mix": "B",
+      "imageFile": "122.webp"
+    },
+    {
+      "number": "123",
+      "model": "'69 Ford Mustang Boss 302",
+      "toyNumber": "JBL20",
+      "mix": "B",
+      "imageFile": "123.webp"
+    },
+    {
+      "number": "124",
+      "model": "Datsun 510 Wagon",
+      "toyNumber": "JBL21",
+      "mix": "B",
+      "imageFile": "124.webp"
+    },
+    {
+      "number": "125",
+      "model": "Meyers Manx",
+      "toyNumber": "JBL22",
+      "mix": "B",
+      "imageFile": "125.webp"
+    },
+    {
+      "number": "126",
+      "model": "2008 Mercedes-Benz CLK 63 AMG Black Series",
+      "toyNumber": "JBL07",
+      "mix": "C",
+      "imageFile": "126.webp"
+    },
+    {
+      "number": "127",
+      "model": "Maserati MC20",
+      "toyNumber": "JBL11",
+      "mix": "C",
+      "imageFile": "127.webp"
+    },
+    {
+      "number": "128",
+      "model": "2024 Toyota Tacoma TRD Pro",
+      "toyNumber": "JBL08",
+      "mix": "C",
+      "imageFile": "128.webp"
+    },
+    {
+      "number": "129",
+      "model": "'98 Toyota Altezza",
+      "toyNumber": "JBL23",
+      "mix": "C",
+      "imageFile": "129.webp"
+    },
+    {
+      "number": "130",
+      "model": "'17 Ford GT",
+      "toyNumber": "JBL26",
+      "mix": "C",
+      "imageFile": "130.webp"
+    },
+    {
+      "number": "131",
+      "model": "'80 Mercedes-Benz 500 SLC Rallye",
+      "toyNumber": "HRT63",
+      "mix": "D",
+      "imageFile": "131.webp"
+    },
+    {
+      "number": "132",
+      "model": "'95 Lamborghini Diablo SV",
+      "toyNumber": "JBL13",
+      "mix": "D",
+      "imageFile": "132.webp"
+    },
+    {
+      "number": "133",
+      "model": "Mitsubishi Pajero Evolution",
+      "toyNumber": "JBL27",
+      "mix": "D",
+      "imageFile": "133.webp"
+    },
+    {
+      "number": "134",
+      "model": "'77 Pontiac Firebird T/A",
+      "toyNumber": "JBL28",
+      "mix": "D",
+      "imageFile": "134.webp"
+    },
+    {
+      "number": "135",
+      "model": "'94 Nissan Primera",
+      "toyNumber": "JBL31",
+      "mix": "D",
+      "imageFile": "135.webp"
+    },
+    {
+      "number": "136",
+      "model": "Ford GT LM",
+      "toyNumber": "JHW26",
+      "mix": "E",
+      "imageFile": "136.webp"
+    },
+    {
+      "number": "137",
+      "model": "Nissan Laurel C33",
+      "toyNumber": "JBL10",
+      "mix": "E",
+      "imageFile": "137.webp"
+    },
+    {
+      "number": "138",
+      "model": "'75 Ford Bronco",
+      "toyNumber": "JBL12",
+      "mix": "E",
+      "imageFile": "138.webp"
+    },
+    {
+      "number": "139",
+      "model": "Lamborghini Temerario",
+      "toyNumber": "JBL09",
+      "mix": "E",
+      "imageFile": "139.webp"
+    },
+    {
+      "number": "140",
+      "model": "Ford RS200",
+      "toyNumber": "JBL29",
+      "mix": "E",
+      "imageFile": "140.webp"
+    }
+  ]
+}
