@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-09-10-v2",
+  "updated": "2026-09-10-v3",
   "imageBaseUrl": "https://raw.githubusercontent.com/buborekbela2-sys/collector-garage-catalog/main/",
   "series": [
     {
@@ -172,7 +172,8 @@
               "mix": "Mix D",
               "imageFile": "images/boulevard/2020/20.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2020.webp"
         },
         {
           "year": "2021",
@@ -337,7 +338,8 @@
               "mix": "Mix D",
               "imageFile": "images/boulevard/2021/40.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2021.webp"
         },
         {
           "year": "2022",
@@ -542,7 +544,8 @@
               "mix": "Mix E",
               "imageFile": "images/boulevard/2022/65.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2022.webp"
         },
         {
           "year": "2023",
@@ -747,7 +750,8 @@
               "mix": "Mix E",
               "imageFile": "images/boulevard/2023/90.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2023.webp"
         },
         {
           "year": "2024",
@@ -952,7 +956,8 @@
               "mix": "Mix E",
               "imageFile": "images/boulevard/2024/115.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2024.webp"
         },
         {
           "year": "2025",
@@ -1157,7 +1162,8 @@
               "mix": "Mix E",
               "imageFile": "images/boulevard/2025/140.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2025.webp"
         },
         {
           "year": "2026",
@@ -1362,7 +1368,8 @@
               "mix": "Mix E",
               "imageFile": "images/boulevard/2026/165.webp"
             }
-          ]
+          ],
+          "image": "images/boulevard/years/2026.webp"
         }
       ],
       "headerImage": "images/boulevard/boulevard-header.webp"
