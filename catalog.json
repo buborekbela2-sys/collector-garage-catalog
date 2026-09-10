@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-09-10",
+  "updated": "2026-09-10-v2",
   "imageBaseUrl": "https://raw.githubusercontent.com/buborekbela2-sys/collector-garage-catalog/main/",
   "series": [
     {
@@ -963,7 +963,7 @@
               "model": "Porsche 935",
               "toyNumber": "JBL17",
               "mix": "Mix A",
-              "imageFile": "116.webp"
+              "imageFile": "images/boulevard/2025/116.webp"
             },
             {
               "id": "boulevard-2025-117",
@@ -971,7 +971,7 @@
               "model": "Lancia Delta Integrale",
               "toyNumber": "JBL18",
               "mix": "Mix A",
-              "imageFile": "117.webp"
+              "imageFile": "images/boulevard/2025/117.webp"
             },
             {
               "id": "boulevard-2025-118",
@@ -979,7 +979,7 @@
               "model": "'91 BMW M5",
               "toyNumber": "JBL24",
               "mix": "Mix A",
-              "imageFile": "118.webp"
+              "imageFile": "images/boulevard/2025/118.webp"
             },
             {
               "id": "boulevard-2025-119",
@@ -987,7 +987,7 @@
               "model": "Toyota Land Cruiser FJ43",
               "toyNumber": "JBL25",
               "mix": "Mix A",
-              "imageFile": "119.webp"
+              "imageFile": "images/boulevard/2025/119.webp"
             },
             {
               "id": "boulevard-2025-120",
@@ -995,7 +995,7 @@
               "model": "Alfa Romeo GTV6 3.0",
               "toyNumber": "JBL16",
               "mix": "Mix A",
-              "imageFile": "120.webp"
+              "imageFile": "images/boulevard/2025/120.webp"
             },
             {
               "id": "boulevard-2025-121",
@@ -1003,7 +1003,7 @@
               "model": "Porsche 911 Carrera RS 2.7",
               "toyNumber": "JBL19",
               "mix": "Mix B",
-              "imageFile": "121.webp"
+              "imageFile": "images/boulevard/2025/121.webp"
             },
             {
               "id": "boulevard-2025-122",
@@ -1011,7 +1011,7 @@
               "model": "'16 Bugatti Chiron",
               "toyNumber": "JBL30",
               "mix": "Mix B",
-              "imageFile": "122.webp"
+              "imageFile": "images/boulevard/2025/122.webp"
             },
             {
               "id": "boulevard-2025-123",
@@ -1019,7 +1019,7 @@
               "model": "'69 Ford Mustang Boss 302",
               "toyNumber": "JBL20",
               "mix": "Mix B",
-              "imageFile": "123.webp"
+              "imageFile": "images/boulevard/2025/123.webp"
             },
             {
               "id": "boulevard-2025-124",
@@ -1027,7 +1027,7 @@
               "model": "Datsun 510 Wagon",
               "toyNumber": "JBL21",
               "mix": "Mix B",
-              "imageFile": "124.webp"
+              "imageFile": "images/boulevard/2025/124.webp"
             },
             {
               "id": "boulevard-2025-125",
@@ -1035,7 +1035,7 @@
               "model": "Meyers Manx",
               "toyNumber": "JBL22",
               "mix": "Mix B",
-              "imageFile": "125.webp"
+              "imageFile": "images/boulevard/2025/125.webp"
             },
             {
               "id": "boulevard-2025-126",
@@ -1043,7 +1043,7 @@
               "model": "2008 Mercedes-Benz CLK 63 AMG Black Series",
               "toyNumber": "JBL07",
               "mix": "Mix C",
-              "imageFile": "126.webp"
+              "imageFile": "images/boulevard/2025/126.webp"
             },
             {
               "id": "boulevard-2025-127",
@@ -1051,7 +1051,7 @@
               "model": "Maserati MC20",
               "toyNumber": "JBL11",
               "mix": "Mix C",
-              "imageFile": "127.webp"
+              "imageFile": "images/boulevard/2025/127.webp"
             },
             {
               "id": "boulevard-2025-128",
@@ -1059,7 +1059,7 @@
               "model": "2024 Toyota Tacoma TRD Pro",
               "toyNumber": "JBL08",
               "mix": "Mix C",
-              "imageFile": "128.webp"
+              "imageFile": "images/boulevard/2025/128.webp"
             },
             {
               "id": "boulevard-2025-129",
@@ -1067,7 +1067,7 @@
               "model": "'98 Toyota Altezza",
               "toyNumber": "JBL23",
               "mix": "Mix C",
-              "imageFile": "129.webp"
+              "imageFile": "images/boulevard/2025/129.webp"
             },
             {
               "id": "boulevard-2025-130",
@@ -1075,7 +1075,7 @@
               "model": "'17 Ford GT",
               "toyNumber": "JBL15",
               "mix": "Mix C",
-              "imageFile": "130.webp"
+              "imageFile": "images/boulevard/2025/130.webp"
             },
             {
               "id": "boulevard-2025-131",
@@ -1083,7 +1083,7 @@
               "model": "'80 Mercedes-Benz 500 SLC Rallye",
               "toyNumber": "HRT63",
               "mix": "Mix D",
-              "imageFile": "131.webp"
+              "imageFile": "images/boulevard/2025/131.webp"
             },
             {
               "id": "boulevard-2025-132",
@@ -1091,7 +1091,7 @@
               "model": "'95 Lamborghini Diablo SV",
               "toyNumber": "JBL13",
               "mix": "Mix D",
-              "imageFile": "132.webp"
+              "imageFile": "images/boulevard/2025/132.webp"
             },
             {
               "id": "boulevard-2025-133",
@@ -1099,7 +1099,7 @@
               "model": "Mitsubishi Pajero Evolution",
               "toyNumber": "JBL26",
               "mix": "Mix D",
-              "imageFile": "133.webp"
+              "imageFile": "images/boulevard/2025/133.webp"
             },
             {
               "id": "boulevard-2025-134",
@@ -1107,7 +1107,7 @@
               "model": "'77 Pontiac Firebird T/A",
               "toyNumber": "JBL28",
               "mix": "Mix D",
-              "imageFile": "134.webp"
+              "imageFile": "images/boulevard/2025/134.webp"
             },
             {
               "id": "boulevard-2025-135",
@@ -1115,7 +1115,7 @@
               "model": "'94 Nissan Primera",
               "toyNumber": "JBL31",
               "mix": "Mix D",
-              "imageFile": "135.webp"
+              "imageFile": "images/boulevard/2025/135.webp"
             },
             {
               "id": "boulevard-2025-136",
@@ -1123,7 +1123,7 @@
               "model": "Ford GT LM",
               "toyNumber": "JHW26",
               "mix": "Mix E",
-              "imageFile": "136.webp"
+              "imageFile": "images/boulevard/2025/136.webp"
             },
             {
               "id": "boulevard-2025-137",
@@ -1131,7 +1131,7 @@
               "model": "Nissan Laurel C33",
               "toyNumber": "JBL10",
               "mix": "Mix E",
-              "imageFile": "137.webp"
+              "imageFile": "images/boulevard/2025/137.webp"
             },
             {
               "id": "boulevard-2025-138",
@@ -1139,7 +1139,7 @@
               "model": "'75 Ford Bronco",
               "toyNumber": "JBL12",
               "mix": "Mix E",
-              "imageFile": "138.webp"
+              "imageFile": "images/boulevard/2025/138.webp"
             },
             {
               "id": "boulevard-2025-139",
@@ -1147,7 +1147,7 @@
               "model": "Lamborghini Temerario",
               "toyNumber": "JBL09",
               "mix": "Mix E",
-              "imageFile": "139.webp"
+              "imageFile": "images/boulevard/2025/139.webp"
             },
             {
               "id": "boulevard-2025-140",
@@ -1155,7 +1155,7 @@
               "model": "Ford RS200",
               "toyNumber": "JBL29",
               "mix": "Mix E",
-              "imageFile": "140.webp"
+              "imageFile": "images/boulevard/2025/140.webp"
             }
           ]
         },
@@ -1364,7 +1364,8 @@
             }
           ]
         }
-      ]
+      ],
+      "headerImage": "images/boulevard/boulevard-header.webp"
     },
     {
       "id": "team-transport",
