@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-09-10-v4",
+  "updated": "2026-09-12-v5",
   "imageBaseUrl": "https://raw.githubusercontent.com/buborekbela2-sys/collector-garage-catalog/main/",
   "series": [
     {
@@ -1455,7 +1455,8 @@
               "mix": "Mix 3",
               "imageFile": "images/team-transport/2018/09.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2018.webp"
         },
         {
           "year": "2019",
@@ -1516,7 +1517,8 @@
               "mix": "Supreme Exclusive",
               "imageFile": "images/team-transport/2019/07.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2019.webp"
         },
         {
           "year": "2020",
@@ -1601,7 +1603,8 @@
               "mix": "Mix 3",
               "imageFile": "images/team-transport/2020/10.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2020.webp"
         },
         {
           "year": "2021",
@@ -1710,7 +1713,8 @@
               "mix": "Walmart Legends Tour Exclusive",
               "imageFile": "images/team-transport/2021/13.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2021.webp"
         },
         {
           "year": "2022",
@@ -1819,7 +1823,8 @@
               "mix": "Mix 4",
               "imageFile": "images/team-transport/2022/13.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2022.webp"
         },
         {
           "year": "2023",
@@ -1928,7 +1933,8 @@
               "mix": "Fast & Furious",
               "imageFile": "images/team-transport/2023/13.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2023.webp"
         },
         {
           "year": "2024",
@@ -2029,7 +2035,8 @@
               "mix": "Mix 4",
               "imageFile": "images/team-transport/2024/12.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2024.webp"
         },
         {
           "year": "2025",
@@ -2130,7 +2137,8 @@
               "mix": "Mix 4",
               "imageFile": "images/team-transport/2025/12.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2025.webp"
         },
         {
           "year": "2026",
@@ -2231,9 +2239,11 @@
               "mix": "Expanded Release",
               "imageFile": "images/team-transport/2026/12.webp"
             }
-          ]
+          ],
+          "image": "images/team-transport/years/2026.webp"
         }
-      ]
+      ],
+      "headerImage": "images/team-transport/team-transport-header.webp"
     },
     {
       "id": "car-culture",
@@ -2404,7 +2414,8 @@
               "mix": "Track Day",
               "imageFile": "images/car-culture/2016/020.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2016.webp"
         },
         {
           "year": "2017",
@@ -2649,7 +2660,8 @@
               "mix": "RLC 6th Car Set",
               "imageFile": "images/car-culture/2017/030.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2017.webp"
         },
         {
           "year": "2018",
@@ -2894,7 +2906,8 @@
               "mix": "Dragstrip Demons",
               "imageFile": "images/car-culture/2018/030.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2018.webp"
         },
         {
           "year": "2019",
@@ -3139,7 +3152,8 @@
               "mix": "Cruise Boulevard",
               "imageFile": "images/car-culture/2019/030.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2019.webp"
         },
         {
           "year": "2020",
@@ -3384,7 +3398,8 @@
               "mix": "Power Trip",
               "imageFile": "images/car-culture/2020/030.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2020.webp"
         },
         {
           "year": "2021",
@@ -3709,7 +3724,8 @@
               "mix": "Toyota",
               "imageFile": "images/car-culture/2021/040.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2021.webp"
         },
         {
           "year": "2022",
@@ -4050,7 +4066,8 @@
               "mix": "Ronin Run • CHASE",
               "imageFile": "images/car-culture/2022/042.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2022.webp"
         },
         {
           "year": "2023",
@@ -4311,7 +4328,8 @@
               "mix": "Modern Classics",
               "imageFile": "images/car-culture/2023/032.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2023.webp"
         },
         {
           "year": "2024",
@@ -4652,7 +4670,8 @@
               "mix": "Modern Classics • CHASE",
               "imageFile": "images/car-culture/2024/042.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2024.webp"
         },
         {
           "year": "2025",
@@ -5041,7 +5060,8 @@
               "mix": "Timeless Icons • CHASE",
               "imageFile": "images/car-culture/2025/048.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2025.webp"
         },
         {
           "year": "2026",
@@ -5326,9 +5346,11 @@
               "mix": "Aero Styles • CHASE",
               "imageFile": "images/car-culture/2026/035.webp"
             }
-          ]
+          ],
+          "image": "images/car-culture/years/2026.webp"
         }
-      ]
+      ],
+      "headerImage": "images/car-culture/car-culture-header.webp"
     },
     {
       "id": "fast-furious",
@@ -5539,7 +5561,8 @@
               "mix": "Fast Rewind",
               "imageFile": "images/fast-furious/2019/025.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2019.webp"
         },
         {
           "year": "2020",
@@ -5704,7 +5727,8 @@
               "mix": "Quick Shifters",
               "imageFile": "images/fast-furious/2020/020.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2020.webp"
         },
         {
           "year": "2021",
@@ -5869,7 +5893,8 @@
               "mix": "Furious Fleet",
               "imageFile": "images/fast-furious/2021/020.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2021.webp"
         },
         {
           "year": "2023",
@@ -5954,7 +5979,8 @@
               "mix": "Mix 2",
               "imageFile": "images/fast-furious/2023/010.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2023.webp"
         },
         {
           "year": "2024",
@@ -6119,7 +6145,8 @@
               "mix": "Mix 4",
               "imageFile": "images/fast-furious/2024/020.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2024.webp"
         },
         {
           "year": "2025",
@@ -6284,7 +6311,8 @@
               "mix": "Mix 4",
               "imageFile": "images/fast-furious/2025/020.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2025.webp"
         },
         {
           "year": "2026",
@@ -6449,9 +6477,11 @@
               "mix": "Mix 4",
               "imageFile": "images/fast-furious/2026/020.webp"
             }
-          ]
+          ],
+          "image": "images/fast-furious/years/2026.webp"
         }
-      ]
+      ],
+      "headerImage": "images/fast-furious/fast-furious-header.webp"
     }
   ]
 }
